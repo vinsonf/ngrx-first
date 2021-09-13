@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "mean-first"
+  "defaultProject": "mean-first",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
